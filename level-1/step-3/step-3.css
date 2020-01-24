@@ -6,12 +6,12 @@
 
 .content-mid-header {
   background: #444;
-  width:auto;
-  heigth:auto;
+  width:150px;
+  heigth:40px;
 }
 
 .content-container {
-  width:auto;
+  width:30%;
   heigth:auto;
 }
 
